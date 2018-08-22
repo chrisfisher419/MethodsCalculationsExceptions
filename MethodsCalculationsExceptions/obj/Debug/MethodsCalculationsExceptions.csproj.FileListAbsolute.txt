@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\bin\Debug\MethodsCalculationsExceptions.exe.config
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\bin\Debug\MethodsCalculationsExceptions.exe
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\bin\Debug\MethodsCalculationsExceptions.pdb
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\obj\Debug\MethodsCalculationsExceptions.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\obj\Debug\MethodsCalculationsExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\obj\Debug\MethodsCalculationsExceptions.exe
+C:\Users\Chris\source\repos\MethodsCalculationsExceptions\MethodsCalculationsExceptions\obj\Debug\MethodsCalculationsExceptions.pdb
